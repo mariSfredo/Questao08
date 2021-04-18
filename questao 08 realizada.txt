@@ -1,0 +1,1 @@
+SELECT cats.name from cats UNION ALL SELECT dogs.name from dogs
